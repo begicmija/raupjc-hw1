@@ -1,0 +1,6 @@
+c:\users\mija\documents\visual studio 2017\Projects\ZadatakPrvi\ZadatakPrvi\obj\Debug\ZadatakPrvi.csprojResolveAssemblyReference.cache
+c:\users\mija\documents\visual studio 2017\Projects\ZadatakPrvi\ZadatakPrvi\bin\Debug\ZadatakPrvi.exe.config
+c:\users\mija\documents\visual studio 2017\Projects\ZadatakPrvi\ZadatakPrvi\bin\Debug\ZadatakPrvi.exe
+c:\users\mija\documents\visual studio 2017\Projects\ZadatakPrvi\ZadatakPrvi\bin\Debug\ZadatakPrvi.pdb
+c:\users\mija\documents\visual studio 2017\Projects\ZadatakPrvi\ZadatakPrvi\obj\Debug\ZadatakPrvi.exe
+c:\users\mija\documents\visual studio 2017\Projects\ZadatakPrvi\ZadatakPrvi\obj\Debug\ZadatakPrvi.pdb
